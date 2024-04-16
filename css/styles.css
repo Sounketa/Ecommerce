@@ -180,3 +180,15 @@ form {
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
+
+.logo_brand {
+  display: block;
+  justify-content: center;
+}
+
+.card-img-top {
+  display: flex;
+  justify-content: center;
+  max-height: 50%;
+  max-width: 50%;
+}
